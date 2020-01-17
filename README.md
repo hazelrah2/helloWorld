@@ -8,3 +8,5 @@ def (function 1)
 def (function 2)
 
 def (function 3)
+
+def (function 4)
